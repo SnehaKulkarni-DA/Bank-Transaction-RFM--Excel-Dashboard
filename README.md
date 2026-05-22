@@ -5,8 +5,6 @@ This repository contains an **Excel-based dashboard** built on **Bank Transactio
 The project demonstrates how raw transaction data can be transformed into actionable insights for customer segmentation and business decision-making.
 
 ---
-## 📷 Dashboard Preview
-https://docs.google.com/spreadsheets/d/1rCfLCX2r1NCiMOJm0ii5bF0GlyIletUE/edit?usp=drive_link&ouid=108418344113532230083&rtpof=true&sd=true
 
 ## ✨ Features
 - **Data Cleaning & Transformation**  
