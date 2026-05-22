@@ -36,6 +36,7 @@ Developed by Sneha Kulkarni
 -Focused on applying technical foundations to real-world business insights
 
 🔗 Connect
+
 LinkedIn-www.linkedin.com/in/sneha-c-kulkarni
 
 GMail-www.snehakulkarni2395@gmail.com
