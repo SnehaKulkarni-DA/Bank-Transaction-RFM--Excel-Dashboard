@@ -1,4 +1,4 @@
-# 📊 Bank Transaction RFM Dashboard
+📊 Bank Transaction RFM Dashboard
 
 ## Overview
 This repository contains an **Excel-based dashboard** built on **Bank Transaction RFM (Recency, Frequency, Monetary) analysis**.  
